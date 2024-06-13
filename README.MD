@@ -5,6 +5,8 @@
 
 <a href="mailto:mourzin@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+<a href="https://t.me/rozenstrike">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
 </a>
 </div>
 
